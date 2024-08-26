@@ -1,0 +1,7 @@
+{
+    "name": "rest-common",
+    "deps": {},
+    "hash": "450iBa_LYcfN6GhBm4MTselIcCtFX1pK3Eu5Yc6TdU0",
+    "version": "0.3.2",
+    "description": "Common utilities and type tools that is shared by several systems"
+}
