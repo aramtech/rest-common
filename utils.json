@@ -1,0 +1,12 @@
+{
+    "name": "rest-common",
+    "deps": {
+
+    },
+    "owner": "aramtech",
+    "private": false,
+    "public_repo": false,
+    "hash": "HmXZ3JRY0Lbpj2IAUHWINoAc2BxRTGM1bG2INKgRhMU",
+    "version": "0.3.3",
+    "description": "Common utilities and type tools that is shared by several systems"
+}
